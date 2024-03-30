@@ -27,6 +27,7 @@ body{
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
     font-size: 8vmin;
     color: brown;
+    background-color: aqua;
 }
 #reset-btn{
     padding: 1rem;
@@ -35,4 +36,19 @@ body{
     color: aliceblue;
     border-radius: 1rem;
     border: none;
+}
+#new-btn{
+    padding: 1rem;
+    font-size: 1.5rem;
+    background-color: blueviolet;
+    color: aliceblue;
+    border-radius: 1rem;
+    border: none;
+}
+#msg{
+    color: azure;
+    font-size: 8vmin;
+}
+.msg-container{
+    height: 30vmin;
 }
